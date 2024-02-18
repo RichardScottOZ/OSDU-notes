@@ -1,5 +1,6 @@
 # OSDU-notes
 Notes re OSDU conversations
+- think of a thing and double it if you want to know
 
 ## Signup
 
