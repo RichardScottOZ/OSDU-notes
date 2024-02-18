@@ -29,6 +29,9 @@ Attend an onboarding session: Regular onboarding meetings are scheduled by appoi
 
 Please check any spam/junk folders for all access emails, and should any future access issues arise or have additional questions, please reach out to forum-support@opengroup.org.
 
+## Portal
+- https://collaboration.opengroup.org/operational/portal.php?action=index
+
 ## OSDU Slack
 - https://opensdu.slack.com/
 - https://og.enterprise.slack.com/ [use SSO signon]
