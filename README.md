@@ -1,6 +1,8 @@
 # OSDU-notes
 Notes re OSDU conversations
 - think of a thing and double it if you want to know
+## Open Group
+- https://www.opengroup.org/
 
 ## Signup
 
