@@ -31,6 +31,7 @@ Please check any spam/junk folders for all access emails, and should any future 
 
 ## OSDU Slack
 - https://opensdu.slack.com/
+- https://og.enterprise.slack.com/
 
 ## Events
 
