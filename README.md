@@ -30,5 +30,8 @@ Please check any spam/junk folders for all access emails, and should any future 
 The Open Group Events, Webinars & Podcasts
 - http://www.opengroup.org/events
 
+### Meeting agendas
+- https://osduforum.org/wp-content/uploads/2023/09/OSDU-Forum-Houston-Member-Meeting-Agenda-Sept-28-2023-1.pdf
+
 ## Gitlab
 - https://community.opengroup.org/osdu
