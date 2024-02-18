@@ -23,3 +23,8 @@ Self-Registration Request: OSDU GitLab Community site: We request you to self-re
 Attend an onboarding session: Regular onboarding meetings are scheduled by appointment on Tuesdays at 11:00 AM EST for 1 hour 30 mins. This call will give you an oversight of The Open Group, what it means to be a member, and the details of how you and your colleagues access the Forum website, meetings, and activities. Please reply or send an email to forum-support@opengroup.org requesting to register for the next available session.
 
 Please check any spam/junk folders for all access emails, and should any future access issues arise or have additional questions, please reach out to forum-support@opengroup.org.
+
+## Events
+
+The Open Group Events, Webinars & Podcasts
+http://www.opengroup.org/events
