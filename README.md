@@ -28,3 +28,6 @@ Please check any spam/junk folders for all access emails, and should any future 
 
 The Open Group Events, Webinars & Podcasts
 http://www.opengroup.org/events
+
+## Gitlab
+https://community.opengroup.org/osdu
