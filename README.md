@@ -6,6 +6,7 @@ Notes re OSDU conversations
 - Members
 
 ## Signup
+- Is long and convoluted
 
 Hello, Richard.
 
@@ -41,3 +42,4 @@ The Open Group Events, Webinars & Podcasts
 
 ## Gitlab
 - https://community.opengroup.org/osdu
+- https://gitlab.opengroup.org/
